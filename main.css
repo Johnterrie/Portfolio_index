@@ -58,6 +58,14 @@ ul {
     
 }
 
+
+.skills-head {
+    position: relative;
+    top: 50px;
+    text-align: center;
+    color: #800000;
+}
+
 .img-main {
     position: relative;
     left: 15vw;
@@ -204,8 +212,19 @@ footer {
     padding: 20px;
     justify-content: center;
     width: 100%;
-    background-color: burlywood;
+    background-color: #a98a01;
     text-align: center;
     color: black;
     height: 15vh;
+}
+
+#section-four {
+    height: 20vh;
+    background-color: #e9ce5b ;
+}
+
+.contact-heading {
+    position: relative;
+    top: 10px;
+    text-align: center;
 }
